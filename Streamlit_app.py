@@ -1,7 +1,7 @@
 import streamlit
-import emoji
 
 streamlit.title('My first program in streamlit')
+
 streamlit.header('Breakfast Menu')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
