@@ -1,11 +1,10 @@
 import streamlit
 import pandas
-import emoji
 
 
 
 streamlit.title('My first program in streamlit')
-streamlit.title(emoji.demojize(":-)"))
+
 streamlit.header('Breakfast Menu :-)')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
