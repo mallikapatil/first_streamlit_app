@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My first program in streamlit')
 
-streamlit.header('Breakfast Menu')
+streamlit.header('Breakfast Menu :-)')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
