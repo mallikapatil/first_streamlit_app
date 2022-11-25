@@ -1,4 +1,5 @@
 import streamlit
+import emoji
 
 streamlit.title('My first program in streamlit')
 
