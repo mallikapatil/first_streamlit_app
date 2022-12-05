@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import snow flake.connector
+import snowflake.connector
 
 
 streamlit.title('My first program in streamlit')
